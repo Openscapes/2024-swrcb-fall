@@ -32,17 +32,20 @@ These are the teams participating:
 
 ***Teams - please edit this repo to add your name next to your team and/or a description of your team's topic/focus!***
 
--   **TBD**:
+-   Unleaded:
+-   UST Evaluation Team:
+-   WaTR (Water Telemetry Research):
   
 ## Openscapes Instruction Team
 
 -   **Instructors**: Anna Holder (OIMA), Tina Ures (DWQ)
 
--   **Mentors:** TBD (RDO)
+-   **Mentors:** Madi Boynton (DWQ), Danielle Cantrell (DDW), TJ Middlemis-Clark (R6), michael ben Ortiz (OPP), Elena Suglia (OIMA), Val Zimmer (DWR)
 
 ### Guest Teachers
 
--   TBD
+-   Call 1: [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes) - Better Science for Future Us
+-   Call 3: [Corey Clatterbuck](https://www.coreyclatterbuck.com/) (California Coastal Commission) - Documentation
 
 ## More Background on Openscapes and the Champions program:
 
