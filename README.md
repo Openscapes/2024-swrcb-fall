@@ -44,7 +44,7 @@ These are the teams participating:
 
 ### Guest Teachers
 
--   Call 1: [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes) - Better Science for Future Us
+-   Call 1: [Stefanie Butland](https://openscapes.org/team.html) (Openscapes) - Better Science for Future Us
 -   Call 3: [Corey Clatterbuck](https://www.coreyclatterbuck.com/) (California Coastal Commission) - Documentation
 
 ## More Background on Openscapes and the Champions program:
