@@ -46,6 +46,7 @@ These are the teams participating:
 
 -   Call 1: [Stefanie Butland](https://openscapes.org/team.html) (Openscapes) - Better Science for Future Us
 -   Call 3: [Corey Clatterbuck](https://www.coreyclatterbuck.com/) (California Coastal Commission) - Documentation
+-   Call 4: Alena Reynolds (Skokomish Tribe DNR; Tribal Exchange Network) - Data Strategies for Future Us
 
 ## More Background on Openscapes and the Champions program:
 
