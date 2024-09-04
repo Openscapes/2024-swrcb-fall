@@ -20,6 +20,10 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 
 We can make words **bold** or *italic*.
 
+# Adding headers 
+
+Can we copy and paste full documents into GitHub and it highlights the changes? Can We upload word documents and it shows the versions differences ? 
+
 ### We can make headers.
 
 We can make lists – *note that lists need an empty line before list items!*
