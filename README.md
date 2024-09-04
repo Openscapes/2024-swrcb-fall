@@ -1,4 +1,4 @@
-<a align="left" href="https://github.com/openscapes/2023-swrcb/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
+<a align="left" href="https://github.com/Openscapes/2024-swrcb-fall"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
 # Fall 2024 California Water Boards Openscapes Champions Cohort
 
